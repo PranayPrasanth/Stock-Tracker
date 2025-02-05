@@ -1,0 +1,23 @@
+# Ignore database files
+*.sqlite
+*.db
+
+# Ignore Excel files
+*.xls
+*.xlsx
+
+# Ignore PNG images
+*.png
+
+# Ignore log files
+*.log
+
+# Ignore virtual environment (Python)
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
